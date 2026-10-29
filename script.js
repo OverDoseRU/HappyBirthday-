@@ -1,4 +1,4 @@
-const SECRET = "2027";
+const SECRET = "3017";
 
 const LETTER = {
     title: "С Днём Рождения, Лёля!",
